@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Date: Fri, 15 Nov 2013 15:50:13 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=3U5utGOkcPTDOJSKao9pOx3eKyszrY6MztQ6CsGDs0BRwkNtcOON2DZtDGQg4lRYh8MOlR5ZAqHyPevhKVt98DNIdqo86b909H-PtU1Jn9fHiDZbeM6ZCo80as0-OAGt5Loj40dWKbs6X__vt7tc9Y7-D7i2DpV9wuutqwjXnmO1q47kz87vPMz1pI48UHhO3IwpEA25UvNBCa1OwAMx1e7ofS3dAPEdTxJC0LiYJuzG8oY4aFqu0wmvx1b2NxC5sBNEMioc4Rl8u6AAoyXTuAw4qsE5Z57B4i02Xb9T96uM9Fx7SwAZnpe7SZ_tAVBNy_r-WgJAVPeJY2K1MM6bz2FvVWZGtJ4ax4a3HefztuIOfbFEklhWLKNfLkeWxjC0-V7dpV0UPJpV_mL3Bmu9j-U-a_U19nitt5N5Na-KkEbfc5RNe6ZviLYbhGC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 13-Nov-2023 15:50:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 15-Nov-2015 15:50:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1384530613757288; path=/; expires=Sun, 08-Nov-43 15:50:13 GMT
+X-Cnection: close
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3041035858; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.72.128.11.1384530613749658; path=/; expires=Sun, 08-Nov-43 15:50:13 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+HTTP/1.1 200 OK
+Date: Fri, 15 Nov 2013 15:56:15 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=ObAP-5wtFQw8ZBu6zDmC7lZSPB07EHfbu-KWXsFTgl7ppuaYfHv_tQZN15liprSiIs9rzA2EmzQ6qHiWNHDZk4CrqD7u2GVeh-Wvg_8BsmOiwJe3ekXR0uiChtVW6A5T6kuAZ8CzojAoijzTHSsOXNEGcZ5GeM1ZPDNRmWEUijtZYYI7T5QLW3jOPjA_tZyRTqyNsLI_5C8TuXj-RlIfV5ooMNsrBbezXd7cqqVGfFlVyFhTJ10L0US-M45fDlINKdWLCDj-OVfVchfmaLR4Gf9Yi5UzltI8dki8-0BZfY_j-HxzewwCjR1vttpH0HcBjNISmzlgiv4zouCd7DlmLqAtca_m7h2XAJlO04N2A5ndMSLv_BB6yaXjdKKlFcQNUwXSZGNmZU4UD2js8fMgj8gke656H8QrwwDwQf5S0wUa7FSBxAOzDC9xBju; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 13-Nov-2023 15:56:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 15-Nov-2015 15:56:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1384530975889215; path=/; expires=Sun, 08-Nov-43 15:56:15 GMT
+X-Cnection: close
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D524584530; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.72.128.11.1384530975880500; path=/; expires=Sun, 08-Nov-43 15:56:15 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+

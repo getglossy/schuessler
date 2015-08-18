@@ -1,0 +1,51 @@
+/* BB Press Styles
+----------------------------------------------- */
+
+#bbpress-forums  { font-size: 0.875em; }
+#bbpress-forums ul.bbp-forums  { margin-top: 4em; }
+#bbpress-forums ul.bbp-lead-topic,
+#bbpress-forums ul.bbp-topics,
+#bbpress-forums ul.bbp-forums,
+#bbpress-forums ul.bbp-replies,
+#bbpress-forums ul.bbp-search-results { font-size: 14px; }
+#subscription-toggle { float: right; }
+img.avatar-14 { vertical-align: baseline; }
+.bbpress select { border: 1px solid #ddd; color: #666; }
+div.bbp-template-notice.info { display: block; clear:both; margin-top: 1.5em; }
+#bbpress-forums fieldset.bbp-form legend,
+#bbpress-forums li.bbp-header,
+#bbpress-forums li.bbp-footer { font-weight: 400; color: #222222; }
+.quicktags-toolbar input { font-weight: 400 !important; }
+div.bbp-breadcrumb, div.bbp-topic-tags { font-size: 14px; }
+#bbp_search_submit {
+    background: transparent;
+    border: 1px solid #b3b3b3;
+    border-radius: 0;
+    color: #939392;
+    float: right;
+    height: 40px;
+    line-height: 39px;
+    margin-left: 10px;
+}
+#bbp_topic_submit,
+#bbp_reply_submit {
+    background: transparent;
+    border: 1px solid #b3b3b3;
+    border-radius: 0;
+    color: #939392;
+    height: 40px;
+    line-height: 39px;
+    cursor: pointer;
+}
+#bbpress-forums #bbp-search-form #bbp_search { height: 40px; line-height: 40px; font-size: 14px; font-weight: 400; }
+#bbpress-forums .bbp-forum-info .bbp-forum-content, #bbpress-forums p.bbp-topic-meta { font-size: 14px; }
+#bbpress-forums div.bbp-forum-author .bbp-author-role,
+#bbpress-forums div.bbp-topic-author .bbp-author-role,
+#bbpress-forums div.bbp-reply-author .bbp-author-role { font-size: 14px; margin-top: -10px; }
+#bbpress-forums div.bbp-topic-author a.bbp-author-name,
+#bbpress-forums div.bbp-reply-author a.bbp-author-name { margin-bottom: -10px; }
+span.bbp-author-ip { font-size: 12px; }
+#bbpress-forums #bbp_topic_subscription { margin-right: 5px; }
+#bbpress-forums div.bbp-the-content-wrapper { margin-bottom: 20px; }
+div.bbp-template-notice p { font-size: 14px; }
+.bbp-topic-started-by .bbp-author-avatar { margin-left: 5px; }

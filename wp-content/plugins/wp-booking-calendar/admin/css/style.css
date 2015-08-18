@@ -1,0 +1,439 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	background-color: #fff;
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333;
+}
+
+
+
+/* GENERAL
+============================================================================== */
+
+.booking_float_left { float: left; }
+
+.booking_float_right { float: right; }
+
+.booking_cleardiv { clear: both; }
+
+.booking_pointer { cursor: pointer; }
+
+.booking_table_cell { display: table-cell; }
+
+.booking_vertical_middle { vertical-align: middle; }
+
+.booking_wh_inherit { width: inherit; height: inherit; }
+
+.booking_text_center { text-align: center; }
+
+
+
+/* FONT
+============================================================================== */
+
+.booking_font_bold { font-weight: bold; }
+
+.booking_font_20 { font-size: 20px; }
+
+.booking_font_18 { font-size: 18px; }
+
+.booking_font_14 { font-size: 14px; }
+
+.booking_font_12 { font-size: 12px; }
+
+
+/* BG
+============================================================================== */
+
+.booking_bg_ccc { background-color: #ccc; }
+
+.booking_bg_f00 { background-color: #F00; }
+
+.booking_bg_333 { background-color: #333; }
+
+.booking_bg_693 { background-color: #693; }
+
+.booking_bg_f6f { background-color: #F6F6F5; } /* grey */
+
+.booking_bg_00b { background-color: #00B478; } /* green */
+
+.booking_bg_fff { background-color: #fff; }
+
+.booking_bg_yellow { background-color: #FF9; }
+
+
+/* MARK
+============================================================================== */
+
+.booking_mark_fff { color: #fff; }
+
+.booking_mark_333 { color: #333; }
+
+.booking_mark_666 { color: #666; }
+
+.booking_mark_red { color: #900; }
+
+/* WIDTH
+============================================================================== */
+
+.booking_width_fluid { width: 100%; }
+
+.booking_width_400 { width: 400px; }
+
+.booking_width_350 { width: 350px; }
+
+.booking_width_250 { width: 250px; }
+
+.booking_width_200 { width: 200px; }
+
+.booking_width_150 { width: 150px; }
+
+.booking_width_122 { width: 122px; }
+
+.booking_width_100 { width: 100px; }
+
+.booking_width_60 { width: 60px; }
+
+.booking_width_20 { width: 20px; }
+
+.booking_width_100p { width: 100%; }
+
+.booking_width_98p { width: 98%; }
+
+.booking_width_90p { width: 90%; }
+
+.booking_width_70p { width: 70%; }
+
+.booking_width_69p { width: 69%; }
+
+.booking_width_60p { width: 60%; }
+
+.booking_width_50p { width: 50%; }
+
+.booking_width_40p { width: 40%; }
+
+.booking_width_30p { width: 30%; }
+
+.booking_width_25p { width: 25%; }
+
+.booking_width_20p { width: 20%; }
+
+.booking_width_15p { width: 15%; }
+
+.booking_width_14p { width: 14%; }
+
+.booking_width_10p { width: 10%; }
+
+.booking_width_7p { width: 7%; }
+
+.booking_width_6p { width: 6%; }
+
+.booking_width_5p { width: 5%; }
+
+.booking_width_3p { width: 3%; }
+
+.booking_width_2p { width: 2%; }
+
+
+
+/* HEIGHT
+============================================================================== */
+
+.booking_height_200 { height: 200px; }
+
+.booking_height_150 { height: 150px; }
+
+.booking_height_60 { height: 60px; }
+
+.booking_height_50 { height: 50px; }
+
+.booking_height_40 { height: 40px; }
+
+.booking_height_30 { height: 30px; }
+
+.booking_height_1 { height: 1px; }
+
+
+/* LINE HEIGHT
+============================================================================== */
+
+.booking_line_percent { line-height: 100%; }
+
+.booking_line_30 { line-height: 30px; }
+
+.booking_line_20 { line-height: 20px; }
+
+
+
+/* MARGIN
+============================================================================== */
+
+.booking_margin_t_30 { margin-top: 30px; }
+
+.booking_margin_20 { margin: 20px; }
+
+.booking_margin_tb_20 { margin: 20px 0; }
+
+.booking_margin_t_24 { margin-top: 24px; }
+
+.booking_margin_t_20 { margin-top: 20px; }
+
+.booking_margin_l_20 { margin-left: 20px; }
+
+.booking_margin_t_12 { margin-top: 12px; }
+
+.booking_margin_t_10 { margin-top: 10px; }
+
+.booking_margin_l_10 { margin-left: 10px; }
+
+.booking_margin_b_10 { margin-bottom: 10px; }
+
+.booking_margin_t_5 { margin-top: 5px; }
+
+
+
+
+/* PADDING
+============================================================================== */
+
+.booking_padding_lr_30 { padding: 0px 30px; }
+
+.booking_padding_20 { padding: 20px; }
+
+.booking_padding_tb_20 { padding: 20px 0; }
+
+.booking_padding_10 { padding: 10px; }
+
+.booking_padding_tb_10 { padding: 10px 0; }
+
+.booking_padding_l_10 { padding-left: 10px; }
+
+.booking_padding_5 { padding: 5px; }
+
+.booking_padding_l_5 { padding-left: 5px; }
+
+.booking_padding_l_1p { padding-left: 1%; }
+
+.booking_padding_1p { padding: 1%; }
+
+
+
+/* BORDER
+============================================================================== */
+
+.booking_border_dotted { border-style: dotted; }
+
+.booking_border_solid { border-style: solid; }
+
+.booking_border_1 { border-width: 1px; }
+
+.booking_border_t_1 { border-width: 1px 0 0 0; }
+
+.booking_border_666 { border-color: #666; }
+
+.booking_border_b_1 { border-width: 0 0 1px 0; }
+
+.booking_border_ccc { border-color: #ccc; }
+
+
+
+/* BUTTONS
+============================================================================== */
+
+.booking_admin_button {
+	width: 140px;
+	height: 50px;
+	line-height: 54px;
+	text-align: right;
+	padding-right: 10px;
+	display: block;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration: none;
+	border: none;
+	cursor: pointer;
+}
+
+.booking_admin_button:hover { color: #fff; }
+
+.booking_grey_button:hover { background-color: #999; }
+
+.booking_green_button:hover { background-color: #360; }
+
+.booking_send_btn {
+	padding: 10px 25px;
+	background-color: #0C6;
+	color: #fff;
+	display: block;
+	cursor: pointer;
+	border: none;
+}
+
+.booking_send_btn:hover {
+	background-color: #096;
+}
+
+
+
+
+/* MENU
+============================================================================== */
+
+#booking_menu_container {
+	width: 920px;
+	height: 32px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #333;
+	z-index: 100;
+}
+
+#booking_menu {
+	padding:0;
+	margin:0;
+}
+
+#booking_menu ul {
+	padding:0;
+	margin:0;
+}
+
+#booking_menu li {
+	position: relative;
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding:0;
+	font-size:10px;
+} 
+
+#booking_menu li a {
+	height: 32px;
+	display: block;
+	padding: 0 16px;
+	text-decoration:none;
+	text-align: center;
+	line-height: 32px;
+	background-color: #333;
+	color: #fff;
+	cursor: pointer;
+} 
+
+#booking_menu li a:hover {
+	background-color: #ccc;
+	color: #000;
+}
+
+
+#booking_menu ul ul {
+	position: absolute;
+	top: 32px; 
+	
+	z-index: 1000;
+} 
+
+#booking_menu ul ul li a {
+	width:116px;
+	height: 32px;
+	display: block;
+	text-decoration:none;
+	text-align: center;
+	line-height: 32px;
+	background-color: #666;
+	color: #fff;
+} 
+
+#booking_menu ul ul li a:hover {
+	background-color: #999;
+}
+
+
+/* SLOTS INCLUDE
+============================================================================== */
+
+
+
+.booking_manage_slot_box_title {
+	font-weight: bold;
+	font-size: 20px;
+	color: #333;
+	text-decoration: none;
+	width: 60%;
+	padding-left: 5px;
+	height: 50px;
+	display: block;
+	line-height: 50px;
+	background: #fff url(../images/buttons/arrow.png) top right no-repeat;
+}
+
+.booking_manage_slot_box_title:hover {
+	background-color: #F6F6F5;
+}
+
+
+
+/**********************************************************/
+
+
+
+.booking_alternate_table_row_white {
+	background-color:#FFFFFF;
+}
+.booking_alternate_table_row_grey {
+	background-color:#F6F6F5;
+}
+
+.booking_table_row_red {
+	background-color:#EFB8B8;
+}
+
+
+
+
+.booking_modal_loading {
+	width:100px;
+	height:100px;
+	top:50%;
+	margin-top:-50px;
+	left:50%;
+	margin-left:-50px;
+	position:fixed;
+	z-index:40;
+}
+
+.booking_modal_contact {
+	width:400px;
+	height:480px;
+	padding: 10px;
+	top:50%;
+	margin-top:-240px;
+	left:50%;
+	margin-left:-200px;
+	position:fixed;
+	z-index:40;
+	background:#FFFFFF;
+}
+
+.booking_modal_sfondo{
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	z-index:30;
+	background-color:#000;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	opacity:0.5;
+	filter:alpha(opacity=50);
+
+}

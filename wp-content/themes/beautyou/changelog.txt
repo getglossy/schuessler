@@ -1,0 +1,26 @@
+Version 1.6
+	* Fixed: post sorting by views
+	* Fixed: end date's putout in the shortcode Events (trx_events)
+	+ Responsive version fixed and improved
+
+Version 1.5
+    * Theme compatibility with new version of Visual Composer 4.6.0 is improved.
+    + Plugins included in the theme, updated to their latest versions.
+
+Version 1.4
+     * Fixed: Script Google maps
+     * Fixed: 'Google map' shortcode is updated
+     * Fixed: Update amount on the cart button
+
+Version 1.3
+	+ Added: Compatibility with BuddyPress and bbPress plug-ins with basic styles is added.
+
+Version 1.2
+	* Fixed: "QRCode generator" widget is fixed
+    + Added: Theme's color scheme improved
+
+Version 1.1
+	+ Added: Built-in demo data import: one click  - and your website becomes a precise copy of our demo site!
+
+Version 1.0
+	Release
